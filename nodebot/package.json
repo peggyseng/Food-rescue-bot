@@ -1,0 +1,24 @@
+{
+  "name": "warburg_telebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.23",
+    "mongoose-findorcreate": "^3.0.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.2.4",
+    "telegraf": "^3.38.0",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filbert",
+  "license": "ISC"
+}
